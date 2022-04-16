@@ -1,8 +1,8 @@
 {
   "countries": [
     {
-      "value": "af",
-      "code": "",
+      "alpha2": "af",
+      "alpha3": "",
       "iso:": "0",
       "name": "afeganistao",
       "oficial_name": "",
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "value": "za",
-      "code": "",
+      "alpha2": "za",
+      "alpha3": "",
       "iso:": "0",
       "name": "africa_do_sul",
       "oficial_name": "",
@@ -39,8 +39,8 @@
       ]
     },
     {
-      "value": "al",
-      "code": "",
+      "alpha2": "al",
+      "alpha3": "",
       "iso:": "0",
       "name": "albania",
       "oficial_name": "",
@@ -58,8 +58,8 @@
       ]
     },
     {
-      "value": "de",
-      "code": "",
+      "alpha2": "de",
+      "alpha3": "",
       "iso:": "0",
       "name": "alemanha",
       "oficial_name": "",
@@ -77,8 +77,8 @@
       ]
     },
     {
-      "value": "ad",
-      "code": "",
+      "alpha2": "ad",
+      "alpha3": "",
       "iso:": "0",
       "name": "andorra",
       "oficial_name": "",
@@ -96,8 +96,8 @@
       ]
     },
     {
-      "value": "ao",
-      "code": "",
+      "alpha2": "ao",
+      "alpha3": "",
       "iso:": "0",
       "name": "angola",
       "oficial_name": "",
@@ -115,8 +115,8 @@
       ]
     },
     {
-      "value": "ai",
-      "code": "",
+      "alpha2": "ai",
+      "alpha3": "",
       "iso:": "0",
       "name": "anguilla",
       "oficial_name": "",
@@ -134,8 +134,8 @@
       ]
     },
     {
-      "value": "aq",
-      "code": "",
+      "alpha2": "aq",
+      "alpha3": "",
       "iso:": "0",
       "name": "antartida",
       "oficial_name": "",
@@ -153,8 +153,8 @@
       ]
     },
     {
-      "value": "ag",
-      "code": "",
+      "alpha2": "ag",
+      "alpha3": "",
       "iso:": "0",
       "name": "antigua_e_barbuda",
       "oficial_name": "",
@@ -172,8 +172,8 @@
       ]
     },
     {
-      "value": "sa",
-      "code": "",
+      "alpha2": "sa",
+      "alpha3": "",
       "iso:": "0",
       "name": "arabia_saudita",
       "oficial_name": "",
@@ -191,8 +191,8 @@
       ]
     },
     {
-      "value": "dz",
-      "code": "",
+      "alpha2": "dz",
+      "alpha3": "",
       "iso:": "0",
       "name": "argelia",
       "oficial_name": "",
@@ -210,8 +210,8 @@
       ]
     },
     {
-      "value": "ar",
-      "code": "",
+      "alpha2": "AR",
+      "alpha3": "ARG",
       "iso:": "0",
       "name": "argentina",
       "oficial_name": "",
@@ -229,8 +229,8 @@
       ]
     },
     {
-      "value": "am",
-      "code": "",
+      "alpha2": "am",
+      "alpha3": "",
       "iso:": "0",
       "name": "armenia",
       "oficial_name": "",
@@ -248,8 +248,8 @@
       ]
     },
     {
-      "value": "aw",
-      "code": "",
+      "alpha2": "aw",
+      "alpha3": "",
       "iso:": "0",
       "name": "aruba",
       "oficial_name": "",
@@ -267,8 +267,8 @@
       ]
     },
     {
-      "value": "au",
-      "code": "",
+      "alpha2": "au",
+      "alpha3": "",
       "iso:": "0",
       "name": "australia",
       "oficial_name": "",
@@ -286,8 +286,8 @@
       ]
     },
     {
-      "value": "at",
-      "code": "",
+      "alpha2": "at",
+      "alpha3": "",
       "iso:": "0",
       "name": "austria",
       "oficial_name": "",
@@ -305,8 +305,8 @@
       ]
     },
     {
-      "value": "az",
-      "code": "",
+      "alpha2": "az",
+      "alpha3": "",
       "iso:": "0",
       "name": "azerbaijao",
       "oficial_name": "",
@@ -324,8 +324,8 @@
       ]
     },
     {
-      "value": "bs",
-      "code": "",
+      "alpha2": "bs",
+      "alpha3": "",
       "iso:": "0",
       "name": "bahamas",
       "oficial_name": "",
@@ -343,8 +343,8 @@
       ]
     },
     {
-      "value": "bh",
-      "code": "",
+      "alpha2": "bh",
+      "alpha3": "",
       "iso:": "0",
       "name": "bahrein",
       "oficial_name": "",
@@ -362,8 +362,8 @@
       ]
     },
     {
-      "value": "bd",
-      "code": "",
+      "alpha2": "bd",
+      "alpha3": "",
       "iso:": "0",
       "name": "bangladesh",
       "oficial_name": "",
@@ -381,8 +381,8 @@
       ]
     },
     {
-      "value": "bb",
-      "code": "",
+      "alpha2": "bb",
+      "alpha3": "",
       "iso:": "0",
       "name": "barbados",
       "oficial_name": "",
@@ -400,8 +400,8 @@
       ]
     },
     {
-      "value": "be",
-      "code": "",
+      "alpha2": "be",
+      "alpha3": "",
       "iso:": "0",
       "name": "belgica",
       "oficial_name": "",
@@ -419,8 +419,8 @@
       ]
     },
     {
-      "value": "bz",
-      "code": "",
+      "alpha2": "bz",
+      "alpha3": "",
       "iso:": "0",
       "name": "belize",
       "oficial_name": "",
@@ -438,8 +438,8 @@
       ]
     },
     {
-      "value": "bj",
-      "code": "",
+      "alpha2": "bj",
+      "alpha3": "",
       "iso:": "0",
       "name": "benin",
       "oficial_name": "",
@@ -457,8 +457,8 @@
       ]
     },
     {
-      "value": "bm",
-      "code": "",
+      "alpha2": "bm",
+      "alpha3": "",
       "iso:": "0",
       "name": "bermudas",
       "oficial_name": "",
@@ -476,8 +476,8 @@
       ]
     },
     {
-      "value": "by",
-      "code": "",
+      "alpha2": "by",
+      "alpha3": "",
       "iso:": "0",
       "name": "bielorrussia",
       "oficial_name": "",
@@ -495,8 +495,8 @@
       ]
     },
     {
-      "value": "bo",
-      "code": "",
+      "alpha2": "bo",
+      "alpha3": "",
       "iso:": "0",
       "name": "bolivia",
       "oficial_name": "",
@@ -514,8 +514,8 @@
       ]
     },
     {
-      "value": "ba",
-      "code": "",
+      "alpha2": "ba",
+      "alpha3": "",
       "iso:": "0",
       "name": "bosnia_e_herzegovina",
       "oficial_name": "",
@@ -533,8 +533,8 @@
       ]
     },
     {
-      "value": "bw",
-      "code": "",
+      "alpha2": "bw",
+      "alpha3": "",
       "iso:": "0",
       "name": "botsuana",
       "oficial_name": "",
@@ -552,8 +552,8 @@
       ]
     },
     {
-      "value": "BRA",
-      "code": "BR",
+      "alpha2": "BR",
+      "alpha3": "BRA",
       "iso:": "076",
       "name": "Brazil",
       "oficial_name": "The Federative Republic of Brazil",
@@ -571,8 +571,8 @@
       ]
     },
     {
-      "value": "bn",
-      "code": "",
+      "alpha2": "bn",
+      "alpha3": "",
       "iso:": "0",
       "name": "brunei",
       "oficial_name": "",
@@ -590,8 +590,8 @@
       ]
     },
     {
-      "value": "bg",
-      "code": "",
+      "alpha2": "bg",
+      "alpha3": "",
       "iso:": "0",
       "name": "bulgaria",
       "oficial_name": "",
@@ -609,8 +609,8 @@
       ]
     },
     {
-      "value": "bf",
-      "code": "",
+      "alpha2": "bf",
+      "alpha3": "",
       "iso:": "0",
       "name": "burquina_faso",
       "oficial_name": "",
@@ -628,8 +628,8 @@
       ]
     },
     {
-      "value": "bi",
-      "code": "",
+      "alpha2": "bi",
+      "alpha3": "",
       "iso:": "0",
       "name": "burundi",
       "oficial_name": "",
@@ -647,8 +647,8 @@
       ]
     },
     {
-      "value": "bt",
-      "code": "",
+      "alpha2": "bt",
+      "alpha3": "",
       "iso:": "0",
       "name": "butao",
       "oficial_name": "",
@@ -666,8 +666,8 @@
       ]
     },
     {
-      "value": "cv",
-      "code": "",
+      "alpha2": "cv",
+      "alpha3": "",
       "iso:": "0",
       "name": "cabo_verde",
       "oficial_name": "",
@@ -685,8 +685,8 @@
       ]
     },
     {
-      "value": "kh",
-      "code": "",
+      "alpha2": "kh",
+      "alpha3": "",
       "iso:": "0",
       "name": "camboja",
       "oficial_name": "",
@@ -704,8 +704,8 @@
       ]
     },
     {
-      "value": "ca",
-      "code": "",
+      "alpha2": "ca",
+      "alpha3": "",
       "iso:": "0",
       "name": "canada",
       "oficial_name": "",
@@ -723,8 +723,8 @@
       ]
     },
     {
-      "value": "qa",
-      "code": "",
+      "alpha2": "qa",
+      "alpha3": "",
       "iso:": "0",
       "name": "catar",
       "oficial_name": "",
@@ -742,8 +742,8 @@
       ]
     },
     {
-      "value": "kz",
-      "code": "",
+      "alpha2": "kz",
+      "alpha3": "",
       "iso:": "0",
       "name": "cazaquistao",
       "oficial_name": "",
@@ -761,8 +761,8 @@
       ]
     },
     {
-      "value": "ea",
-      "code": "",
+      "alpha2": "ea",
+      "alpha3": "",
       "iso:": "0",
       "name": "ceuta_e_melilha",
       "oficial_name": "",
@@ -780,8 +780,8 @@
       ]
     },
     {
-      "value": "td",
-      "code": "",
+      "alpha2": "td",
+      "alpha3": "",
       "iso:": "0",
       "name": "chade",
       "oficial_name": "",
@@ -799,8 +799,8 @@
       ]
     },
     {
-      "value": "cl",
-      "code": "",
+      "alpha2": "cl",
+      "alpha3": "",
       "iso:": "0",
       "name": "chile",
       "oficial_name": "",
@@ -818,8 +818,8 @@
       ]
     },
     {
-      "value": "cn",
-      "code": "",
+      "alpha2": "cn",
+      "alpha3": "",
       "iso:": "0",
       "name": "china",
       "oficial_name": "",
@@ -837,8 +837,8 @@
       ]
     },
     {
-      "value": "cy",
-      "code": "",
+      "alpha2": "cy",
+      "alpha3": "",
       "iso:": "0",
       "name": "chipre",
       "oficial_name": "",
@@ -856,8 +856,8 @@
       ]
     },
     {
-      "value": "va",
-      "code": "",
+      "alpha2": "va",
+      "alpha3": "",
       "iso:": "0",
       "name": "cidade_do_vaticano",
       "oficial_name": "",
@@ -875,8 +875,8 @@
       ]
     },
     {
-      "value": "sg",
-      "code": "",
+      "alpha2": "sg",
+      "alpha3": "",
       "iso:": "0",
       "name": "cingapura",
       "oficial_name": "",
@@ -894,8 +894,8 @@
       ]
     },
     {
-      "value": "co",
-      "code": "",
+      "alpha2": "co",
+      "alpha3": "",
       "iso:": "0",
       "name": "colombia",
       "oficial_name": "",
@@ -913,8 +913,8 @@
       ]
     },
     {
-      "value": "km",
-      "code": "",
+      "alpha2": "km",
+      "alpha3": "",
       "iso:": "0",
       "name": "comores",
       "oficial_name": "",
@@ -932,8 +932,8 @@
       ]
     },
     {
-      "value": "cg",
-      "code": "",
+      "alpha2": "cg",
+      "alpha3": "",
       "iso:": "0",
       "name": "congo___brazzaville",
       "oficial_name": "",
@@ -951,8 +951,8 @@
       ]
     },
     {
-      "value": "cd",
-      "code": "",
+      "alpha2": "cd",
+      "alpha3": "",
       "iso:": "0",
       "name": "congo___kinshasa",
       "oficial_name": "",
@@ -970,8 +970,8 @@
       ]
     },
     {
-      "value": "kp",
-      "code": "",
+      "alpha2": "kp",
+      "alpha3": "",
       "iso:": "0",
       "name": "coreia_do_norte",
       "oficial_name": "",
@@ -989,8 +989,8 @@
       ]
     },
     {
-      "value": "kr",
-      "code": "",
+      "alpha2": "kr",
+      "alpha3": "",
       "iso:": "0",
       "name": "coreia_do_sul",
       "oficial_name": "",
@@ -1008,8 +1008,8 @@
       ]
     },
     {
-      "value": "ci",
-      "code": "",
+      "alpha2": "ci",
+      "alpha3": "",
       "iso:": "0",
       "name": "costa_do_marfim",
       "oficial_name": "",
@@ -1027,8 +1027,8 @@
       ]
     },
     {
-      "value": "cr",
-      "code": "",
+      "alpha2": "cr",
+      "alpha3": "",
       "iso:": "0",
       "name": "costa_rica",
       "oficial_name": "",
@@ -1046,8 +1046,8 @@
       ]
     },
     {
-      "value": "hr",
-      "code": "",
+      "alpha2": "hr",
+      "alpha3": "",
       "iso:": "0",
       "name": "croacia",
       "oficial_name": "",
@@ -1065,8 +1065,8 @@
       ]
     },
     {
-      "value": "cu",
-      "code": "",
+      "alpha2": "cu",
+      "alpha3": "",
       "iso:": "0",
       "name": "cuba",
       "oficial_name": "",
@@ -1084,8 +1084,8 @@
       ]
     },
     {
-      "value": "cw",
-      "code": "",
+      "alpha2": "cw",
+      "alpha3": "",
       "iso:": "0",
       "name": "curacao",
       "oficial_name": "",
@@ -1103,8 +1103,8 @@
       ]
     },
     {
-      "value": "dg",
-      "code": "",
+      "alpha2": "dg",
+      "alpha3": "",
       "iso:": "0",
       "name": "diego_garcia",
       "oficial_name": "",
@@ -1122,8 +1122,8 @@
       ]
     },
     {
-      "value": "dk",
-      "code": "",
+      "alpha2": "dk",
+      "alpha3": "",
       "iso:": "0",
       "name": "dinamarca",
       "oficial_name": "",
@@ -1141,8 +1141,8 @@
       ]
     },
     {
-      "value": "dj",
-      "code": "",
+      "alpha2": "dj",
+      "alpha3": "",
       "iso:": "0",
       "name": "djibuti",
       "oficial_name": "",
@@ -1160,8 +1160,8 @@
       ]
     },
     {
-      "value": "dm",
-      "code": "",
+      "alpha2": "dm",
+      "alpha3": "",
       "iso:": "0",
       "name": "dominica",
       "oficial_name": "",
@@ -1179,8 +1179,8 @@
       ]
     },
     {
-      "value": "eg",
-      "code": "",
+      "alpha2": "eg",
+      "alpha3": "",
       "iso:": "0",
       "name": "egito",
       "oficial_name": "",
@@ -1198,8 +1198,8 @@
       ]
     },
     {
-      "value": "sv",
-      "code": "",
+      "alpha2": "sv",
+      "alpha3": "",
       "iso:": "0",
       "name": "el_salvador",
       "oficial_name": "",
@@ -1217,8 +1217,8 @@
       ]
     },
     {
-      "value": "ae",
-      "code": "",
+      "alpha2": "ae",
+      "alpha3": "",
       "iso:": "0",
       "name": "emirados_arabes_unidos",
       "oficial_name": "",
@@ -1236,8 +1236,8 @@
       ]
     },
     {
-      "value": "ec",
-      "code": "",
+      "alpha2": "ec",
+      "alpha3": "",
       "iso:": "0",
       "name": "equador",
       "oficial_name": "",
@@ -1255,8 +1255,8 @@
       ]
     },
     {
-      "value": "er",
-      "code": "",
+      "alpha2": "er",
+      "alpha3": "",
       "iso:": "0",
       "name": "eritreia",
       "oficial_name": "",
@@ -1274,8 +1274,8 @@
       ]
     },
     {
-      "value": "sct",
-      "code": "",
+      "alpha2": "sct",
+      "alpha3": "",
       "iso:": "0",
       "name": "escocia",
       "oficial_name": "",
@@ -1293,8 +1293,8 @@
       ]
     },
     {
-      "value": "sk",
-      "code": "",
+      "alpha2": "sk",
+      "alpha3": "",
       "iso:": "0",
       "name": "eslovaquia",
       "oficial_name": "",
@@ -1312,8 +1312,8 @@
       ]
     },
     {
-      "value": "si",
-      "code": "",
+      "alpha2": "si",
+      "alpha3": "",
       "iso:": "0",
       "name": "eslovenia",
       "oficial_name": "",
@@ -1331,8 +1331,8 @@
       ]
     },
     {
-      "value": "es",
-      "code": "",
+      "alpha2": "es",
+      "alpha3": "",
       "iso:": "0",
       "name": "espanha",
       "oficial_name": "",
@@ -1350,8 +1350,8 @@
       ]
     },
     {
-      "value": "us",
-      "code": "",
+      "alpha2": "us",
+      "alpha3": "",
       "iso:": "0",
       "name": "estados_unidos",
       "oficial_name": "",
@@ -1369,8 +1369,8 @@
       ]
     },
     {
-      "value": "ee",
-      "code": "",
+      "alpha2": "ee",
+      "alpha3": "",
       "iso:": "0",
       "name": "estonia",
       "oficial_name": "",
@@ -1388,8 +1388,8 @@
       ]
     },
     {
-      "value": "et",
-      "code": "",
+      "alpha2": "et",
+      "alpha3": "",
       "iso:": "0",
       "name": "etiopia",
       "oficial_name": "",
@@ -1407,8 +1407,8 @@
       ]
     },
     {
-      "value": "ez",
-      "code": "",
+      "alpha2": "ez",
+      "alpha3": "",
       "iso:": "0",
       "name": "eurozone",
       "oficial_name": "",
@@ -1426,8 +1426,8 @@
       ]
     },
     {
-      "value": "fj",
-      "code": "",
+      "alpha2": "fj",
+      "alpha3": "",
       "iso:": "0",
       "name": "fiji",
       "oficial_name": "",
@@ -1445,8 +1445,8 @@
       ]
     },
     {
-      "value": "ph",
-      "code": "",
+      "alpha2": "ph",
+      "alpha3": "",
       "iso:": "0",
       "name": "filipinas",
       "oficial_name": "",
@@ -1464,8 +1464,8 @@
       ]
     },
     {
-      "value": "fi",
-      "code": "",
+      "alpha2": "fi",
+      "alpha3": "",
       "iso:": "0",
       "name": "finlandia",
       "oficial_name": "",
@@ -1483,8 +1483,8 @@
       ]
     },
     {
-      "value": "fr",
-      "code": "",
+      "alpha2": "fr",
+      "alpha3": "",
       "iso:": "0",
       "name": "franca",
       "oficial_name": "",
@@ -1502,8 +1502,8 @@
       ]
     },
     {
-      "value": "ga",
-      "code": "",
+      "alpha2": "ga",
+      "alpha3": "",
       "iso:": "0",
       "name": "gabao",
       "oficial_name": "",
@@ -1521,8 +1521,8 @@
       ]
     },
     {
-      "value": "gm",
-      "code": "",
+      "alpha2": "gm",
+      "alpha3": "",
       "iso:": "0",
       "name": "gambia",
       "oficial_name": "",
@@ -1540,8 +1540,8 @@
       ]
     },
     {
-      "value": "gh",
-      "code": "",
+      "alpha2": "gh",
+      "alpha3": "",
       "iso:": "0",
       "name": "gana",
       "oficial_name": "",
@@ -1559,8 +1559,8 @@
       ]
     },
     {
-      "value": "ge",
-      "code": "",
+      "alpha2": "ge",
+      "alpha3": "",
       "iso:": "0",
       "name": "georgia",
       "oficial_name": "",
@@ -1578,8 +1578,8 @@
       ]
     },
     {
-      "value": "gi",
-      "code": "",
+      "alpha2": "gi",
+      "alpha3": "",
       "iso:": "0",
       "name": "gibraltar",
       "oficial_name": "",
@@ -1597,8 +1597,8 @@
       ]
     },
     {
-      "value": "gd",
-      "code": "",
+      "alpha2": "gd",
+      "alpha3": "",
       "iso:": "0",
       "name": "granada",
       "oficial_name": "",
@@ -1616,8 +1616,8 @@
       ]
     },
     {
-      "value": "gr",
-      "code": "",
+      "alpha2": "gr",
+      "alpha3": "",
       "iso:": "0",
       "name": "grecia",
       "oficial_name": "",
@@ -1635,8 +1635,8 @@
       ]
     },
     {
-      "value": "gl",
-      "code": "",
+      "alpha2": "gl",
+      "alpha3": "",
       "iso:": "0",
       "name": "groenlandia",
       "oficial_name": "",
@@ -1654,8 +1654,8 @@
       ]
     },
     {
-      "value": "gp",
-      "code": "",
+      "alpha2": "gp",
+      "alpha3": "",
       "iso:": "0",
       "name": "guadalupe",
       "oficial_name": "",
@@ -1673,8 +1673,8 @@
       ]
     },
     {
-      "value": "gu",
-      "code": "",
+      "alpha2": "gu",
+      "alpha3": "",
       "iso:": "0",
       "name": "guam",
       "oficial_name": "",
@@ -1692,8 +1692,8 @@
       ]
     },
     {
-      "value": "gt",
-      "code": "",
+      "alpha2": "gt",
+      "alpha3": "",
       "iso:": "0",
       "name": "guatemala",
       "oficial_name": "",
@@ -1711,8 +1711,8 @@
       ]
     },
     {
-      "value": "gg",
-      "code": "",
+      "alpha2": "gg",
+      "alpha3": "",
       "iso:": "0",
       "name": "guernsey",
       "oficial_name": "",
@@ -1730,8 +1730,8 @@
       ]
     },
     {
-      "value": "gy",
-      "code": "",
+      "alpha2": "gy",
+      "alpha3": "",
       "iso:": "0",
       "name": "guiana",
       "oficial_name": "",
@@ -1749,8 +1749,8 @@
       ]
     },
     {
-      "value": "gf",
-      "code": "",
+      "alpha2": "gf",
+      "alpha3": "",
       "iso:": "0",
       "name": "guiana_francesa",
       "oficial_name": "",
@@ -1768,8 +1768,8 @@
       ]
     },
     {
-      "value": "gn",
-      "code": "",
+      "alpha2": "gn",
+      "alpha3": "",
       "iso:": "0",
       "name": "guine",
       "oficial_name": "",
@@ -1787,8 +1787,8 @@
       ]
     },
     {
-      "value": "gq",
-      "code": "",
+      "alpha2": "gq",
+      "alpha3": "",
       "iso:": "0",
       "name": "guine_equatorial",
       "oficial_name": "",
@@ -1806,8 +1806,8 @@
       ]
     },
     {
-      "value": "gw",
-      "code": "",
+      "alpha2": "gw",
+      "alpha3": "",
       "iso:": "0",
       "name": "guine_bissau",
       "oficial_name": "",
@@ -1825,8 +1825,8 @@
       ]
     },
     {
-      "value": "ht",
-      "code": "",
+      "alpha2": "ht",
+      "alpha3": "",
       "iso:": "0",
       "name": "haiti",
       "oficial_name": "",
@@ -1844,8 +1844,8 @@
       ]
     },
     {
-      "value": "nl",
-      "code": "",
+      "alpha2": "nl",
+      "alpha3": "",
       "iso:": "0",
       "name": "holanda",
       "oficial_name": "",
@@ -1863,8 +1863,8 @@
       ]
     },
     {
-      "value": "hn",
-      "code": "",
+      "alpha2": "hn",
+      "alpha3": "",
       "iso:": "0",
       "name": "honduras",
       "oficial_name": "",
@@ -1882,8 +1882,8 @@
       ]
     },
     {
-      "value": "hk",
-      "code": "",
+      "alpha2": "hk",
+      "alpha3": "",
       "iso:": "0",
       "name": "hong_kong__rae_da_china",
       "oficial_name": "",
@@ -1901,8 +1901,8 @@
       ]
     },
     {
-      "value": "hu",
-      "code": "",
+      "alpha2": "hu",
+      "alpha3": "",
       "iso:": "0",
       "name": "hungria",
       "oficial_name": "",
@@ -1920,8 +1920,8 @@
       ]
     },
     {
-      "value": "ye",
-      "code": "",
+      "alpha2": "ye",
+      "alpha3": "",
       "iso:": "0",
       "name": "iemen",
       "oficial_name": "",
@@ -1939,8 +1939,8 @@
       ]
     },
     {
-      "value": "cx",
-      "code": "",
+      "alpha2": "cx",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilha_christmas",
       "oficial_name": "",
@@ -1958,8 +1958,8 @@
       ]
     },
     {
-      "value": "ac",
-      "code": "",
+      "alpha2": "ac",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilha_de_ascensao",
       "oficial_name": "",
@@ -1977,8 +1977,8 @@
       ]
     },
     {
-      "value": "im",
-      "code": "",
+      "alpha2": "im",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilha_de_man",
       "oficial_name": "",
@@ -1996,8 +1996,8 @@
       ]
     },
     {
-      "value": "nf",
-      "code": "",
+      "alpha2": "nf",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilha_norfolk",
       "oficial_name": "",
@@ -2015,8 +2015,8 @@
       ]
     },
     {
-      "value": "ax",
-      "code": "",
+      "alpha2": "ax",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_aland",
       "oficial_name": "",
@@ -2034,8 +2034,8 @@
       ]
     },
     {
-      "value": "ic",
-      "code": "",
+      "alpha2": "ic",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_canarias",
       "oficial_name": "",
@@ -2053,8 +2053,8 @@
       ]
     },
     {
-      "value": "ky",
-      "code": "",
+      "alpha2": "ky",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_cayman",
       "oficial_name": "",
@@ -2072,8 +2072,8 @@
       ]
     },
     {
-      "value": "cc",
-      "code": "",
+      "alpha2": "cc",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_cocos__keeling_",
       "oficial_name": "",
@@ -2091,8 +2091,8 @@
       ]
     },
     {
-      "value": "ck",
-      "code": "",
+      "alpha2": "ck",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_cook",
       "oficial_name": "",
@@ -2110,8 +2110,8 @@
       ]
     },
     {
-      "value": "fo",
-      "code": "",
+      "alpha2": "fo",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_faroe",
       "oficial_name": "",
@@ -2129,8 +2129,8 @@
       ]
     },
     {
-      "value": "gs",
-      "code": "",
+      "alpha2": "gs",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_georgia_do_sul_e_sandwich_do_sul",
       "oficial_name": "",
@@ -2148,8 +2148,8 @@
       ]
     },
     {
-      "value": "fk",
-      "code": "",
+      "alpha2": "fk",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_malvinas",
       "oficial_name": "",
@@ -2167,8 +2167,8 @@
       ]
     },
     {
-      "value": "mp",
-      "code": "",
+      "alpha2": "mp",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_marianas_do_norte",
       "oficial_name": "",
@@ -2186,8 +2186,8 @@
       ]
     },
     {
-      "value": "mh",
-      "code": "",
+      "alpha2": "mh",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_marshall",
       "oficial_name": "",
@@ -2205,8 +2205,8 @@
       ]
     },
     {
-      "value": "um",
-      "code": "",
+      "alpha2": "um",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_menores_distantes_dos_eua",
       "oficial_name": "",
@@ -2224,8 +2224,8 @@
       ]
     },
     {
-      "value": "pn",
-      "code": "",
+      "alpha2": "pn",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_pitcairn",
       "oficial_name": "",
@@ -2243,8 +2243,8 @@
       ]
     },
     {
-      "value": "sb",
-      "code": "",
+      "alpha2": "sb",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_salomao",
       "oficial_name": "",
@@ -2262,8 +2262,8 @@
       ]
     },
     {
-      "value": "tc",
-      "code": "",
+      "alpha2": "tc",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_turks_e_caicos",
       "oficial_name": "",
@@ -2281,8 +2281,8 @@
       ]
     },
     {
-      "value": "vg",
-      "code": "",
+      "alpha2": "vg",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_virgens_britanicas",
       "oficial_name": "",
@@ -2300,8 +2300,8 @@
       ]
     },
     {
-      "value": "vi",
-      "code": "",
+      "alpha2": "vi",
+      "alpha3": "",
       "iso:": "0",
       "name": "ilhas_virgens_dos_eua",
       "oficial_name": "",
@@ -2319,8 +2319,8 @@
       ]
     },
     {
-      "value": "in",
-      "code": "",
+      "alpha2": "in",
+      "alpha3": "",
       "iso:": "0",
       "name": "india",
       "oficial_name": "",
@@ -2338,8 +2338,8 @@
       ]
     },
     {
-      "value": "eng",
-      "code": "",
+      "alpha2": "eng",
+      "alpha3": "",
       "iso:": "0",
       "name": "inglaterra",
       "oficial_name": "",
@@ -2357,8 +2357,8 @@
       ]
     },
     {
-      "value": "ir",
-      "code": "",
+      "alpha2": "ir",
+      "alpha3": "",
       "iso:": "0",
       "name": "ira",
       "oficial_name": "",
@@ -2376,8 +2376,8 @@
       ]
     },
     {
-      "value": "iq",
-      "code": "",
+      "alpha2": "iq",
+      "alpha3": "",
       "iso:": "0",
       "name": "iraque",
       "oficial_name": "",
@@ -2395,8 +2395,8 @@
       ]
     },
     {
-      "value": "ie",
-      "code": "",
+      "alpha2": "ie",
+      "alpha3": "",
       "iso:": "0",
       "name": "irlanda",
       "oficial_name": "",
@@ -2414,8 +2414,8 @@
       ]
     },
     {
-      "value": "is",
-      "code": "",
+      "alpha2": "is",
+      "alpha3": "",
       "iso:": "0",
       "name": "islandia",
       "oficial_name": "",
@@ -2433,8 +2433,8 @@
       ]
     },
     {
-      "value": "il",
-      "code": "",
+      "alpha2": "il",
+      "alpha3": "",
       "iso:": "0",
       "name": "israel",
       "oficial_name": "",
@@ -2452,8 +2452,8 @@
       ]
     },
     {
-      "value": "it",
-      "code": "",
+      "alpha2": "it",
+      "alpha3": "",
       "iso:": "0",
       "name": "italia",
       "oficial_name": "",
@@ -2471,8 +2471,8 @@
       ]
     },
     {
-      "value": "jm",
-      "code": "",
+      "alpha2": "jm",
+      "alpha3": "",
       "iso:": "0",
       "name": "jamaica",
       "oficial_name": "",
@@ -2490,8 +2490,8 @@
       ]
     },
     {
-      "value": "jp",
-      "code": "",
+      "alpha2": "jp",
+      "alpha3": "",
       "iso:": "0",
       "name": "japao",
       "oficial_name": "",
@@ -2509,8 +2509,8 @@
       ]
     },
     {
-      "value": "je",
-      "code": "",
+      "alpha2": "je",
+      "alpha3": "",
       "iso:": "0",
       "name": "jersey",
       "oficial_name": "",
@@ -2528,8 +2528,8 @@
       ]
     },
     {
-      "value": "jo",
-      "code": "",
+      "alpha2": "jo",
+      "alpha3": "",
       "iso:": "0",
       "name": "jordania",
       "oficial_name": "",
@@ -2547,8 +2547,8 @@
       ]
     },
     {
-      "value": "xk",
-      "code": "",
+      "alpha2": "xk",
+      "alpha3": "",
       "iso:": "0",
       "name": "kosovo",
       "oficial_name": "",
@@ -2566,8 +2566,8 @@
       ]
     },
     {
-      "value": "kw",
-      "code": "",
+      "alpha2": "kw",
+      "alpha3": "",
       "iso:": "0",
       "name": "kuwait",
       "oficial_name": "",
@@ -2585,8 +2585,8 @@
       ]
     },
     {
-      "value": "la",
-      "code": "",
+      "alpha2": "la",
+      "alpha3": "",
       "iso:": "0",
       "name": "laos",
       "oficial_name": "",
@@ -2604,8 +2604,8 @@
       ]
     },
     {
-      "value": "ls",
-      "code": "",
+      "alpha2": "ls",
+      "alpha3": "",
       "iso:": "0",
       "name": "lesoto",
       "oficial_name": "",
@@ -2623,8 +2623,8 @@
       ]
     },
     {
-      "value": "lv",
-      "code": "",
+      "alpha2": "lv",
+      "alpha3": "",
       "iso:": "0",
       "name": "letonia",
       "oficial_name": "",
@@ -2642,8 +2642,8 @@
       ]
     },
     {
-      "value": "lb",
-      "code": "",
+      "alpha2": "lb",
+      "alpha3": "",
       "iso:": "0",
       "name": "libano",
       "oficial_name": "",
@@ -2661,8 +2661,8 @@
       ]
     },
     {
-      "value": "lr",
-      "code": "",
+      "alpha2": "lr",
+      "alpha3": "",
       "iso:": "0",
       "name": "liberia",
       "oficial_name": "",
@@ -2680,8 +2680,8 @@
       ]
     },
     {
-      "value": "ly",
-      "code": "",
+      "alpha2": "ly",
+      "alpha3": "",
       "iso:": "0",
       "name": "libia",
       "oficial_name": "",
@@ -2699,8 +2699,8 @@
       ]
     },
     {
-      "value": "li",
-      "code": "",
+      "alpha2": "li",
+      "alpha3": "",
       "iso:": "0",
       "name": "liechtenstein",
       "oficial_name": "",
@@ -2718,8 +2718,8 @@
       ]
     },
     {
-      "value": "lt",
-      "code": "",
+      "alpha2": "lt",
+      "alpha3": "",
       "iso:": "0",
       "name": "lituania",
       "oficial_name": "",
@@ -2737,8 +2737,8 @@
       ]
     },
     {
-      "value": "lu",
-      "code": "",
+      "alpha2": "lu",
+      "alpha3": "",
       "iso:": "0",
       "name": "luxemburgo",
       "oficial_name": "",
@@ -2756,8 +2756,8 @@
       ]
     },
     {
-      "value": "mo",
-      "code": "",
+      "alpha2": "mo",
+      "alpha3": "",
       "iso:": "0",
       "name": "macau__rae_da_china",
       "oficial_name": "",
@@ -2775,8 +2775,8 @@
       ]
     },
     {
-      "value": "mk",
-      "code": "",
+      "alpha2": "mk",
+      "alpha3": "",
       "iso:": "0",
       "name": "macedonia",
       "oficial_name": "",
@@ -2794,8 +2794,8 @@
       ]
     },
     {
-      "value": "mg",
-      "code": "",
+      "alpha2": "mg",
+      "alpha3": "",
       "iso:": "0",
       "name": "madagascar",
       "oficial_name": "",
@@ -2813,8 +2813,8 @@
       ]
     },
     {
-      "value": "my",
-      "code": "",
+      "alpha2": "my",
+      "alpha3": "",
       "iso:": "0",
       "name": "malasia",
       "oficial_name": "",
@@ -2832,8 +2832,8 @@
       ]
     },
     {
-      "value": "mw",
-      "code": "",
+      "alpha2": "mw",
+      "alpha3": "",
       "iso:": "0",
       "name": "malawi",
       "oficial_name": "",
@@ -2851,8 +2851,8 @@
       ]
     },
     {
-      "value": "mv",
-      "code": "",
+      "alpha2": "mv",
+      "alpha3": "",
       "iso:": "0",
       "name": "maldivas",
       "oficial_name": "",
@@ -2870,8 +2870,8 @@
       ]
     },
     {
-      "value": "ml",
-      "code": "",
+      "alpha2": "ml",
+      "alpha3": "",
       "iso:": "0",
       "name": "mali",
       "oficial_name": "",
@@ -2889,8 +2889,8 @@
       ]
     },
     {
-      "value": "mt",
-      "code": "",
+      "alpha2": "mt",
+      "alpha3": "",
       "iso:": "0",
       "name": "malta",
       "oficial_name": "",
@@ -2908,8 +2908,8 @@
       ]
     },
     {
-      "value": "ma",
-      "code": "",
+      "alpha2": "ma",
+      "alpha3": "",
       "iso:": "0",
       "name": "marrocos",
       "oficial_name": "",
@@ -2927,8 +2927,8 @@
       ]
     },
     {
-      "value": "mq",
-      "code": "",
+      "alpha2": "mq",
+      "alpha3": "",
       "iso:": "0",
       "name": "martinica",
       "oficial_name": "",
@@ -2946,8 +2946,8 @@
       ]
     },
     {
-      "value": "mu",
-      "code": "",
+      "alpha2": "mu",
+      "alpha3": "",
       "iso:": "0",
       "name": "mauricio",
       "oficial_name": "",
@@ -2965,8 +2965,8 @@
       ]
     },
     {
-      "value": "mr",
-      "code": "",
+      "alpha2": "mr",
+      "alpha3": "",
       "iso:": "0",
       "name": "mauritania",
       "oficial_name": "",
@@ -2984,8 +2984,8 @@
       ]
     },
     {
-      "value": "yt",
-      "code": "",
+      "alpha2": "yt",
+      "alpha3": "",
       "iso:": "0",
       "name": "mayotte",
       "oficial_name": "",
@@ -3003,8 +3003,8 @@
       ]
     },
     {
-      "value": "mx",
-      "code": "",
+      "alpha2": "mx",
+      "alpha3": "",
       "iso:": "0",
       "name": "mexico",
       "oficial_name": "",
@@ -3022,8 +3022,8 @@
       ]
     },
     {
-      "value": "mm",
-      "code": "",
+      "alpha2": "mm",
+      "alpha3": "",
       "iso:": "0",
       "name": "mianmar__birmania_",
       "oficial_name": "",
@@ -3041,8 +3041,8 @@
       ]
     },
     {
-      "value": "fm",
-      "code": "",
+      "alpha2": "fm",
+      "alpha3": "",
       "iso:": "0",
       "name": "micronesia",
       "oficial_name": "",
@@ -3060,8 +3060,8 @@
       ]
     },
     {
-      "value": "mz",
-      "code": "",
+      "alpha2": "mz",
+      "alpha3": "",
       "iso:": "0",
       "name": "mocambique",
       "oficial_name": "",
@@ -3079,8 +3079,8 @@
       ]
     },
     {
-      "value": "md",
-      "code": "",
+      "alpha2": "md",
+      "alpha3": "",
       "iso:": "0",
       "name": "moldavia",
       "oficial_name": "",
@@ -3098,8 +3098,8 @@
       ]
     },
     {
-      "value": "mc",
-      "code": "",
+      "alpha2": "mc",
+      "alpha3": "",
       "iso:": "0",
       "name": "monaco",
       "oficial_name": "",
@@ -3117,8 +3117,8 @@
       ]
     },
     {
-      "value": "mn",
-      "code": "",
+      "alpha2": "mn",
+      "alpha3": "",
       "iso:": "0",
       "name": "mongolia",
       "oficial_name": "",
@@ -3136,8 +3136,8 @@
       ]
     },
     {
-      "value": "me",
-      "code": "",
+      "alpha2": "me",
+      "alpha3": "",
       "iso:": "0",
       "name": "montenegro",
       "oficial_name": "",
@@ -3155,8 +3155,8 @@
       ]
     },
     {
-      "value": "ms",
-      "code": "",
+      "alpha2": "ms",
+      "alpha3": "",
       "iso:": "0",
       "name": "montserrat",
       "oficial_name": "",
@@ -3174,8 +3174,8 @@
       ]
     },
     {
-      "value": "un",
-      "code": "",
+      "alpha2": "un",
+      "alpha3": "",
       "iso:": "0",
       "name": "nacoes_unidas",
       "oficial_name": "",
@@ -3193,8 +3193,8 @@
       ]
     },
     {
-      "value": "na",
-      "code": "",
+      "alpha2": "na",
+      "alpha3": "",
       "iso:": "0",
       "name": "namibia",
       "oficial_name": "",
@@ -3212,8 +3212,8 @@
       ]
     },
     {
-      "value": "nr",
-      "code": "",
+      "alpha2": "nr",
+      "alpha3": "",
       "iso:": "0",
       "name": "nauru",
       "oficial_name": "",
@@ -3231,8 +3231,8 @@
       ]
     },
     {
-      "value": "np",
-      "code": "",
+      "alpha2": "np",
+      "alpha3": "",
       "iso:": "0",
       "name": "nepal",
       "oficial_name": "",
@@ -3250,8 +3250,8 @@
       ]
     },
     {
-      "value": "ni",
-      "code": "",
+      "alpha2": "ni",
+      "alpha3": "",
       "iso:": "0",
       "name": "nicaragua",
       "oficial_name": "",
@@ -3269,8 +3269,8 @@
       ]
     },
     {
-      "value": "ne",
-      "code": "",
+      "alpha2": "ne",
+      "alpha3": "",
       "iso:": "0",
       "name": "niger",
       "oficial_name": "",
@@ -3288,8 +3288,8 @@
       ]
     },
     {
-      "value": "ng",
-      "code": "",
+      "alpha2": "ng",
+      "alpha3": "",
       "iso:": "0",
       "name": "nigeria",
       "oficial_name": "",
@@ -3307,8 +3307,8 @@
       ]
     },
     {
-      "value": "nu",
-      "code": "",
+      "alpha2": "nu",
+      "alpha3": "",
       "iso:": "0",
       "name": "niue",
       "oficial_name": "",
@@ -3326,8 +3326,8 @@
       ]
     },
     {
-      "value": "no",
-      "code": "",
+      "alpha2": "no",
+      "alpha3": "",
       "iso:": "0",
       "name": "noruega",
       "oficial_name": "",
@@ -3345,8 +3345,8 @@
       ]
     },
     {
-      "value": "nc",
-      "code": "",
+      "alpha2": "nc",
+      "alpha3": "",
       "iso:": "0",
       "name": "nova_caledonia",
       "oficial_name": "",
@@ -3364,8 +3364,8 @@
       ]
     },
     {
-      "value": "nz",
-      "code": "",
+      "alpha2": "nz",
+      "alpha3": "",
       "iso:": "0",
       "name": "nova_zelandia",
       "oficial_name": "",
@@ -3383,8 +3383,8 @@
       ]
     },
     {
-      "value": "om",
-      "code": "",
+      "alpha2": "om",
+      "alpha3": "",
       "iso:": "0",
       "name": "oma",
       "oficial_name": "",
@@ -3402,8 +3402,8 @@
       ]
     },
     {
-      "value": "wls",
-      "code": "",
+      "alpha2": "wls",
+      "alpha3": "",
       "iso:": "0",
       "name": "pais_de_gales",
       "oficial_name": "",
@@ -3421,8 +3421,8 @@
       ]
     },
     {
-      "value": "bq",
-      "code": "",
+      "alpha2": "bq",
+      "alpha3": "",
       "iso:": "0",
       "name": "paises_baixos_caribenhos",
       "oficial_name": "",
@@ -3440,8 +3440,8 @@
       ]
     },
     {
-      "value": "pw",
-      "code": "",
+      "alpha2": "pw",
+      "alpha3": "",
       "iso:": "0",
       "name": "palau",
       "oficial_name": "",
@@ -3459,8 +3459,8 @@
       ]
     },
     {
-      "value": "pa",
-      "code": "",
+      "alpha2": "pa",
+      "alpha3": "",
       "iso:": "0",
       "name": "panama",
       "oficial_name": "",
@@ -3478,8 +3478,8 @@
       ]
     },
     {
-      "value": "pg",
-      "code": "",
+      "alpha2": "pg",
+      "alpha3": "",
       "iso:": "0",
       "name": "papua_nova_guine",
       "oficial_name": "",
@@ -3497,8 +3497,8 @@
       ]
     },
     {
-      "value": "pk",
-      "code": "",
+      "alpha2": "pk",
+      "alpha3": "",
       "iso:": "0",
       "name": "paquistao",
       "oficial_name": "",
@@ -3516,8 +3516,8 @@
       ]
     },
     {
-      "value": "py",
-      "code": "",
+      "alpha2": "py",
+      "alpha3": "",
       "iso:": "0",
       "name": "paraguai",
       "oficial_name": "",
@@ -3535,8 +3535,8 @@
       ]
     },
     {
-      "value": "pe",
-      "code": "",
+      "alpha2": "pe",
+      "alpha3": "",
       "iso:": "0",
       "name": "peru",
       "oficial_name": "",
@@ -3554,8 +3554,8 @@
       ]
     },
     {
-      "value": "pf",
-      "code": "",
+      "alpha2": "pf",
+      "alpha3": "",
       "iso:": "0",
       "name": "polinesia_francesa",
       "oficial_name": "",
@@ -3573,8 +3573,8 @@
       ]
     },
     {
-      "value": "pl",
-      "code": "",
+      "alpha2": "pl",
+      "alpha3": "",
       "iso:": "0",
       "name": "polonia",
       "oficial_name": "",
@@ -3592,8 +3592,8 @@
       ]
     },
     {
-      "value": "pr",
-      "code": "",
+      "alpha2": "pr",
+      "alpha3": "",
       "iso:": "0",
       "name": "porto_rico",
       "oficial_name": "",
@@ -3611,8 +3611,8 @@
       ]
     },
     {
-      "value": "pt",
-      "code": "",
+      "alpha2": "pt",
+      "alpha3": "",
       "iso:": "0",
       "name": "portugal",
       "oficial_name": "",
@@ -3630,8 +3630,8 @@
       ]
     },
     {
-      "value": "ke",
-      "code": "",
+      "alpha2": "ke",
+      "alpha3": "",
       "iso:": "0",
       "name": "quenia",
       "oficial_name": "",
@@ -3649,8 +3649,8 @@
       ]
     },
     {
-      "value": "kg",
-      "code": "",
+      "alpha2": "kg",
+      "alpha3": "",
       "iso:": "0",
       "name": "quirguistao",
       "oficial_name": "",
@@ -3668,8 +3668,8 @@
       ]
     },
     {
-      "value": "ki",
-      "code": "",
+      "alpha2": "ki",
+      "alpha3": "",
       "iso:": "0",
       "name": "quiribati",
       "oficial_name": "",
@@ -3687,8 +3687,8 @@
       ]
     },
     {
-      "value": "gb",
-      "code": "",
+      "alpha2": "gb",
+      "alpha3": "",
       "iso:": "0",
       "name": "reino_unido",
       "oficial_name": "",
@@ -3706,8 +3706,8 @@
       ]
     },
     {
-      "value": "cf",
-      "code": "",
+      "alpha2": "cf",
+      "alpha3": "",
       "iso:": "0",
       "name": "republica_centro_africana",
       "oficial_name": "",
@@ -3725,8 +3725,8 @@
       ]
     },
     {
-      "value": "do",
-      "code": "",
+      "alpha2": "do",
+      "alpha3": "",
       "iso:": "0",
       "name": "republica_dominicana",
       "oficial_name": "",
@@ -3744,8 +3744,8 @@
       ]
     },
     {
-      "value": "cm",
-      "code": "",
+      "alpha2": "cm",
+      "alpha3": "",
       "iso:": "0",
       "name": "republica_dos_camaroes",
       "oficial_name": "",
@@ -3763,8 +3763,8 @@
       ]
     },
     {
-      "value": "re",
-      "code": "",
+      "alpha2": "re",
+      "alpha3": "",
       "iso:": "0",
       "name": "reuniao",
       "oficial_name": "",
@@ -3782,8 +3782,8 @@
       ]
     },
     {
-      "value": "ro",
-      "code": "",
+      "alpha2": "ro",
+      "alpha3": "",
       "iso:": "0",
       "name": "romenia",
       "oficial_name": "",
@@ -3801,8 +3801,8 @@
       ]
     },
     {
-      "value": "rw",
-      "code": "",
+      "alpha2": "rw",
+      "alpha3": "",
       "iso:": "0",
       "name": "ruanda",
       "oficial_name": "",
@@ -3820,8 +3820,8 @@
       ]
     },
     {
-      "value": "ru",
-      "code": "",
+      "alpha2": "ru",
+      "alpha3": "",
       "iso:": "0",
       "name": "russia",
       "oficial_name": "",
@@ -3839,8 +3839,8 @@
       ]
     },
     {
-      "value": "eh",
-      "code": "",
+      "alpha2": "eh",
+      "alpha3": "",
       "iso:": "0",
       "name": "saara_ocidental",
       "oficial_name": "",
@@ -3858,8 +3858,8 @@
       ]
     },
     {
-      "value": "pm",
-      "code": "",
+      "alpha2": "pm",
+      "alpha3": "",
       "iso:": "0",
       "name": "saint_pierre_e_miquelon",
       "oficial_name": "",
@@ -3877,8 +3877,8 @@
       ]
     },
     {
-      "value": "ws",
-      "code": "",
+      "alpha2": "ws",
+      "alpha3": "",
       "iso:": "0",
       "name": "samoa",
       "oficial_name": "",
@@ -3896,8 +3896,8 @@
       ]
     },
     {
-      "value": "as",
-      "code": "",
+      "alpha2": "as",
+      "alpha3": "",
       "iso:": "0",
       "name": "samoa_americana",
       "oficial_name": "",
@@ -3915,8 +3915,8 @@
       ]
     },
     {
-      "value": "sm",
-      "code": "",
+      "alpha2": "sm",
+      "alpha3": "",
       "iso:": "0",
       "name": "san_marino",
       "oficial_name": "",
@@ -3934,8 +3934,8 @@
       ]
     },
     {
-      "value": "sh",
-      "code": "",
+      "alpha2": "sh",
+      "alpha3": "",
       "iso:": "0",
       "name": "santa_helena",
       "oficial_name": "",
@@ -3953,8 +3953,8 @@
       ]
     },
     {
-      "value": "lc",
-      "code": "",
+      "alpha2": "lc",
+      "alpha3": "",
       "iso:": "0",
       "name": "santa_lucia",
       "oficial_name": "",
@@ -3972,8 +3972,8 @@
       ]
     },
     {
-      "value": "bl",
-      "code": "",
+      "alpha2": "bl",
+      "alpha3": "",
       "iso:": "0",
       "name": "sao_bartolomeu",
       "oficial_name": "",
@@ -3991,8 +3991,8 @@
       ]
     },
     {
-      "value": "kn",
-      "code": "",
+      "alpha2": "kn",
+      "alpha3": "",
       "iso:": "0",
       "name": "sao_cristovao_e_nevis",
       "oficial_name": "",
@@ -4010,8 +4010,8 @@
       ]
     },
     {
-      "value": "mf",
-      "code": "",
+      "alpha2": "mf",
+      "alpha3": "",
       "iso:": "0",
       "name": "sao_martinho",
       "oficial_name": "",
@@ -4029,8 +4029,8 @@
       ]
     },
     {
-      "value": "st",
-      "code": "",
+      "alpha2": "st",
+      "alpha3": "",
       "iso:": "0",
       "name": "sao_tome_e_principe",
       "oficial_name": "",
@@ -4048,8 +4048,8 @@
       ]
     },
     {
-      "value": "vc",
-      "code": "",
+      "alpha2": "vc",
+      "alpha3": "",
       "iso:": "0",
       "name": "sao_vicente_e_granadinas",
       "oficial_name": "",
@@ -4067,8 +4067,8 @@
       ]
     },
     {
-      "value": "sc",
-      "code": "",
+      "alpha2": "sc",
+      "alpha3": "",
       "iso:": "0",
       "name": "seicheles",
       "oficial_name": "",
@@ -4086,8 +4086,8 @@
       ]
     },
     {
-      "value": "sn",
-      "code": "",
+      "alpha2": "sn",
+      "alpha3": "",
       "iso:": "0",
       "name": "senegal",
       "oficial_name": "",
@@ -4105,8 +4105,8 @@
       ]
     },
     {
-      "value": "sl",
-      "code": "",
+      "alpha2": "sl",
+      "alpha3": "",
       "iso:": "0",
       "name": "serra_leoa",
       "oficial_name": "",
@@ -4124,8 +4124,8 @@
       ]
     },
     {
-      "value": "rs",
-      "code": "",
+      "alpha2": "rs",
+      "alpha3": "",
       "iso:": "0",
       "name": "servia",
       "oficial_name": "",
@@ -4143,8 +4143,8 @@
       ]
     },
     {
-      "value": "sx",
-      "code": "",
+      "alpha2": "sx",
+      "alpha3": "",
       "iso:": "0",
       "name": "sint_maarten",
       "oficial_name": "",
@@ -4162,8 +4162,8 @@
       ]
     },
     {
-      "value": "sy",
-      "code": "",
+      "alpha2": "sy",
+      "alpha3": "",
       "iso:": "0",
       "name": "siria",
       "oficial_name": "",
@@ -4181,8 +4181,8 @@
       ]
     },
     {
-      "value": "so",
-      "code": "",
+      "alpha2": "so",
+      "alpha3": "",
       "iso:": "0",
       "name": "somalia",
       "oficial_name": "",
@@ -4200,8 +4200,8 @@
       ]
     },
     {
-      "value": "lk",
-      "code": "",
+      "alpha2": "lk",
+      "alpha3": "",
       "iso:": "0",
       "name": "sri_lanka",
       "oficial_name": "",
@@ -4219,8 +4219,8 @@
       ]
     },
     {
-      "value": "sz",
-      "code": "",
+      "alpha2": "sz",
+      "alpha3": "",
       "iso:": "0",
       "name": "suazilandia",
       "oficial_name": "",
@@ -4238,8 +4238,8 @@
       ]
     },
     {
-      "value": "sd",
-      "code": "",
+      "alpha2": "sd",
+      "alpha3": "",
       "iso:": "0",
       "name": "sudao",
       "oficial_name": "",
@@ -4257,8 +4257,8 @@
       ]
     },
     {
-      "value": "ss",
-      "code": "",
+      "alpha2": "ss",
+      "alpha3": "",
       "iso:": "0",
       "name": "sudao_do_sul",
       "oficial_name": "",
@@ -4276,8 +4276,8 @@
       ]
     },
     {
-      "value": "se",
-      "code": "",
+      "alpha2": "se",
+      "alpha3": "",
       "iso:": "0",
       "name": "suecia",
       "oficial_name": "",
@@ -4295,8 +4295,8 @@
       ]
     },
     {
-      "value": "ch",
-      "code": "",
+      "alpha2": "ch",
+      "alpha3": "",
       "iso:": "0",
       "name": "suica",
       "oficial_name": "",
@@ -4314,8 +4314,8 @@
       ]
     },
     {
-      "value": "sr",
-      "code": "",
+      "alpha2": "sr",
+      "alpha3": "",
       "iso:": "0",
       "name": "suriname",
       "oficial_name": "",
@@ -4333,8 +4333,8 @@
       ]
     },
     {
-      "value": "sj",
-      "code": "",
+      "alpha2": "sj",
+      "alpha3": "",
       "iso:": "0",
       "name": "svalbard_e_jan_mayen",
       "oficial_name": "",
@@ -4352,8 +4352,8 @@
       ]
     },
     {
-      "value": "th",
-      "code": "",
+      "alpha2": "th",
+      "alpha3": "",
       "iso:": "0",
       "name": "tailandia",
       "oficial_name": "",
@@ -4371,8 +4371,8 @@
       ]
     },
     {
-      "value": "tw",
-      "code": "",
+      "alpha2": "tw",
+      "alpha3": "",
       "iso:": "0",
       "name": "taiwan",
       "oficial_name": "",
@@ -4390,8 +4390,8 @@
       ]
     },
     {
-      "value": "tj",
-      "code": "",
+      "alpha2": "tj",
+      "alpha3": "",
       "iso:": "0",
       "name": "tajiquistao",
       "oficial_name": "",
@@ -4409,8 +4409,8 @@
       ]
     },
     {
-      "value": "tz",
-      "code": "",
+      "alpha2": "tz",
+      "alpha3": "",
       "iso:": "0",
       "name": "tanzania",
       "oficial_name": "",
@@ -4428,8 +4428,8 @@
       ]
     },
     {
-      "value": "cz",
-      "code": "",
+      "alpha2": "cz",
+      "alpha3": "",
       "iso:": "0",
       "name": "tchequia",
       "oficial_name": "",
@@ -4447,8 +4447,8 @@
       ]
     },
     {
-      "value": "io",
-      "code": "",
+      "alpha2": "io",
+      "alpha3": "",
       "iso:": "0",
       "name": "territorio_britanico_do_oceano_indico",
       "oficial_name": "",
@@ -4466,8 +4466,8 @@
       ]
     },
     {
-      "value": "tf",
-      "code": "",
+      "alpha2": "tf",
+      "alpha3": "",
       "iso:": "0",
       "name": "territorios_franceses_do_sul",
       "oficial_name": "",
@@ -4485,8 +4485,8 @@
       ]
     },
     {
-      "value": "ps",
-      "code": "",
+      "alpha2": "ps",
+      "alpha3": "",
       "iso:": "0",
       "name": "territorios_palestinos",
       "oficial_name": "",
@@ -4504,8 +4504,8 @@
       ]
     },
     {
-      "value": "tl",
-      "code": "",
+      "alpha2": "tl",
+      "alpha3": "",
       "iso:": "0",
       "name": "timor_leste",
       "oficial_name": "",
@@ -4523,8 +4523,8 @@
       ]
     },
     {
-      "value": "tg",
-      "code": "",
+      "alpha2": "tg",
+      "alpha3": "",
       "iso:": "0",
       "name": "togo",
       "oficial_name": "",
@@ -4542,8 +4542,8 @@
       ]
     },
     {
-      "value": "tk",
-      "code": "",
+      "alpha2": "tk",
+      "alpha3": "",
       "iso:": "0",
       "name": "tokelau",
       "oficial_name": "",
@@ -4561,8 +4561,8 @@
       ]
     },
     {
-      "value": "to",
-      "code": "",
+      "alpha2": "to",
+      "alpha3": "",
       "iso:": "0",
       "name": "tonga",
       "oficial_name": "",
@@ -4580,8 +4580,8 @@
       ]
     },
     {
-      "value": "tt",
-      "code": "",
+      "alpha2": "tt",
+      "alpha3": "",
       "iso:": "0",
       "name": "trinidad_e_tobago",
       "oficial_name": "",
@@ -4599,8 +4599,8 @@
       ]
     },
     {
-      "value": "ta",
-      "code": "",
+      "alpha2": "ta",
+      "alpha3": "",
       "iso:": "0",
       "name": "tristao_da_cunha",
       "oficial_name": "",
@@ -4618,8 +4618,8 @@
       ]
     },
     {
-      "value": "tn",
-      "code": "",
+      "alpha2": "tn",
+      "alpha3": "",
       "iso:": "0",
       "name": "tunisia",
       "oficial_name": "",
@@ -4637,8 +4637,8 @@
       ]
     },
     {
-      "value": "tm",
-      "code": "",
+      "alpha2": "tm",
+      "alpha3": "",
       "iso:": "0",
       "name": "turcomenistao",
       "oficial_name": "",
@@ -4656,8 +4656,8 @@
       ]
     },
     {
-      "value": "tr",
-      "code": "",
+      "alpha2": "tr",
+      "alpha3": "",
       "iso:": "0",
       "name": "turquia",
       "oficial_name": "",
@@ -4675,8 +4675,8 @@
       ]
     },
     {
-      "value": "tv",
-      "code": "",
+      "alpha2": "tv",
+      "alpha3": "",
       "iso:": "0",
       "name": "tuvalu",
       "oficial_name": "",
@@ -4694,8 +4694,8 @@
       ]
     },
     {
-      "value": "ua",
-      "code": "",
+      "alpha2": "ua",
+      "alpha3": "",
       "iso:": "0",
       "name": "ucrania",
       "oficial_name": "",
@@ -4713,8 +4713,8 @@
       ]
     },
     {
-      "value": "ug",
-      "code": "",
+      "alpha2": "ug",
+      "alpha3": "",
       "iso:": "0",
       "name": "uganda",
       "oficial_name": "",
@@ -4732,8 +4732,8 @@
       ]
     },
     {
-      "value": "uy",
-      "code": "",
+      "alpha2": "uy",
+      "alpha3": "",
       "iso:": "0",
       "name": "uruguai",
       "oficial_name": "",
@@ -4751,8 +4751,8 @@
       ]
     },
     {
-      "value": "uz",
-      "code": "",
+      "alpha2": "uz",
+      "alpha3": "",
       "iso:": "0",
       "name": "uzbequistao",
       "oficial_name": "",
@@ -4770,8 +4770,8 @@
       ]
     },
     {
-      "value": "vu",
-      "code": "",
+      "alpha2": "vu",
+      "alpha3": "",
       "iso:": "0",
       "name": "vanuatu",
       "oficial_name": "",
@@ -4789,8 +4789,8 @@
       ]
     },
     {
-      "value": "ve",
-      "code": "",
+      "alpha2": "ve",
+      "alpha3": "",
       "iso:": "0",
       "name": "venezuela",
       "oficial_name": "",
@@ -4808,8 +4808,8 @@
       ]
     },
     {
-      "value": "vn",
-      "code": "",
+      "alpha2": "vn",
+      "alpha3": "",
       "iso:": "0",
       "name": "vietna",
       "oficial_name": "",
@@ -4827,8 +4827,8 @@
       ]
     },
     {
-      "value": "wf",
-      "code": "",
+      "alpha2": "wf",
+      "alpha3": "",
       "iso:": "0",
       "name": "wallis_e_futuna",
       "oficial_name": "",
@@ -4846,8 +4846,8 @@
       ]
     },
     {
-      "value": "zm",
-      "code": "",
+      "alpha2": "zm",
+      "alpha3": "",
       "iso:": "0",
       "name": "zambia",
       "oficial_name": "",
@@ -4865,8 +4865,8 @@
       ]
     },
     {
-      "value": "zw",
-      "code": "",
+      "alpha2": "zw",
+      "alpha3": "",
       "iso:": "0",
       "name": "zimbabue",
       "oficial_name": "",
